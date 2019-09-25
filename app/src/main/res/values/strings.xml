@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">MapApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="location_updated">Location Updated: %1$s</string>
+    <string name="launch_activity">Launch activity</string>
+    <string name="permission_denied_explanation">>Permission was denied</string>
+    <string name="remove_location_updates">Remove location updates</string>
+    <string name="settings">Settings</string>
+</resources>
